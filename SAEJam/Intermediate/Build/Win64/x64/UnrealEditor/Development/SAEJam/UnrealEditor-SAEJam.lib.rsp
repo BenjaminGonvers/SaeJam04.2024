@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SAEJam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\SAEJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\SAEJam\SAEJam.init.gen.cpp.obj"
+"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\SAEJam\SAEJamCharacter.gen.cpp.obj"
+"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\SAEJam\SAEJamGameMode.gen.cpp.obj"
+"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\SAEJam\SAEJam.cpp.obj"
+"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\SAEJam\SAEJamCharacter.cpp.obj"
+"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\SAEJam\SAEJamGameMode.cpp.obj"
+"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\SAEJam\Default.rc2.res"
+/OUT:"C:\Repository\5.Unreal\Jam\SAEJam04_2024\SAEJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\SAEJam\UnrealEditor-SAEJam.lib"

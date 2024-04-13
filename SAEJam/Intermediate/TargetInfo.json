@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SAEJam",
+			"Path": "..\\Source\\SAEJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SAEJamEditor",
+			"Path": "..\\Source\\SAEJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

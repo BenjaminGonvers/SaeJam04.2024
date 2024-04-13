@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\intermediate\\build\\win64\\unrealeditor\\inc\\saejam\\uht\\saejamgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\intermediate\\build\\win64\\x64\\saejameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\saejam\\definitions.saejam.h",
+            "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\source\\saejam\\saejamgamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\intermediate\\build\\win64\\unrealeditor\\inc\\saejam\\uht\\saejamgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

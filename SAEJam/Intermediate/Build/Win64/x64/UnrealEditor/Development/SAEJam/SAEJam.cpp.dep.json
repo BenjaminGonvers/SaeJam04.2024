@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\source\\saejam\\saejam.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\intermediate\\build\\win64\\x64\\saejameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\saejam\\definitions.saejam.h",
+            "c:\\repository\\5.unreal\\jam\\saejam04_2024\\saejam\\source\\saejam\\saejam.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
